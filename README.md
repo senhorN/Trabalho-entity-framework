@@ -11,7 +11,7 @@ U - update(update)
 D - delete(delete )
 `
 ### verbos HTTP
-POST - create - cria = 201 ceate
+POST - create - cria = 201 create
 
 GET - READ - ler = 200 ok
 
