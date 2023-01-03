@@ -11,9 +11,9 @@ U - update(update)
 D - delete(delete )
 `
 ### verbos HTTP
-POST - create - cria = 201 create
+POST - create - cria = 201 Create
 
-GET - READ - ler = 200 ok
+GET - READ - ler = 200 Ok
 
 PUT - UPDATE/REPLACE = 405 method not allowed
 
